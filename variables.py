@@ -1,0 +1,1 @@
+cros_color_text = 'cl_crosshair_color'
